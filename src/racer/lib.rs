@@ -16,6 +16,7 @@ extern crate derive_more;
 extern crate rustc_ast;
 extern crate rustc_ast_pretty;
 extern crate rustc_data_structures;
+extern crate rustc_error_messages;
 extern crate rustc_errors;
 extern crate rustc_parse;
 extern crate rustc_session;
